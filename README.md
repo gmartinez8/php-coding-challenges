@@ -10,3 +10,7 @@ I'll try to add at least one every week.
 **Exercises**
 
 - [01-FindNeedle](/Exercises/01-FindNeedle/)
+
+
+**Tests**
+You can test the solution with `vendor/bin/phpunit Exercises --color  --testdox`
