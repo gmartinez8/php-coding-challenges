@@ -20,4 +20,4 @@ That is, the goal of the exercise is to determine if the first string, needle, i
 In this case, since the needle is not in the haystack, the output value is -1.
 
 #### IMPORTANT
-To solve this exercise you cannot use the pre-existing function: <b>array_search( )</b> or similar
+To solve this exercise you cannot use the pre-existing function: <b>strpos(), array_search( )</b> or similar
