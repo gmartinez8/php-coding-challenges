@@ -1,5 +1,5 @@
 <?php
-include 'FindNeedle.php';
+require 'FindNeedle.php';
 
 use PHPUnit\Framework\TestCase;
 
