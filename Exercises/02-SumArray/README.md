@@ -7,11 +7,11 @@ The objective of the exercise is to find if the combination of any two numbers i
 
 #### Examples
 ###### There are two values
-**arreglo**: [2,4,5,9]     
+**array**: [2,4,5,9]     
 **number**: 9        
 **return**: true
 
 ###### There are not two values
-**arreglo**: [2,4,5,9]     
+**array**: [2,4,5,9]     
 **number**: 12        
 **return**: false
