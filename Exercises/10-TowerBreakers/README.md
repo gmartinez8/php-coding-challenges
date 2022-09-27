@@ -12,7 +12,7 @@ Two players are playing a game of Tower Breakers! Player $1$ always moves first,
 
 Given the values of $n$ and $m$, determine which player will win. If the first player wins, return 1. Otherwise, return 2.
 
-**Example**
+### Example
 
 ```
 n = 2

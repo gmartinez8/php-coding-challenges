@@ -6,7 +6,7 @@ Find the index of the first occurrence of a string (needle) within another (hays
 
 That is, the goal of the exercise is to determine if the first string, needle, is inside the second, haystack, and if so, to return the index at which this occurs.
 
-#### Examples
+### Examples
 ###### Finds it
 **needle**: redux       
 **haystack**: react-redux        

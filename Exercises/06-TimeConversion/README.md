@@ -8,7 +8,7 @@ Note:
 
 - 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
 
-**Example**
+### Example
 
 `s=12:01:00PM` returns `12:01:00`
 
