@@ -45,6 +45,16 @@ class GridChallengeTest extends TestCase
         $this->assertEquals($expected, $result);
     }
 
+    public function testGridChallengeCase3() : void
+    {
+        $input = ['iv', 'sm'];
+        $expected = 'NO';
+
+        $result = grid_challenge($input);
+
+        $this->assertEquals($expected, $result);
+    }
+
     public function testGridChallengeCase4() : void
     {
         $input = [
