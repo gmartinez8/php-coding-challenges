@@ -1,6 +1,6 @@
 
 # Multi-Dimensional SumArray
-## Introducción
+## Introduction
 We already work with one-dimensional arrays, now we will go up a notch and go through two-dimensional arrays, that is, an array of integer arrays.
 
 In this case, the goal is to find the sum of all the elements of the array.

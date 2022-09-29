@@ -19,6 +19,10 @@ I'll try to add at least one every week.
 - [08-DiagonalDifference](/Exercises/08-DiagonalDifference/)
 - [09-CountingSort](/Exercises/09-CountingSort/)
 - [10-TowerBreakers](/Exercises/10-TowerBreakers/)
+- [11-MultiDimensionalSumArray](/Exercises/11-MultiDimensionalSumArray/)
+- [12-GridChallenge](/Exercises/12-GridChallenge/)
+- [13-HasBalanceBrackets](/Exercises/13-HasBalanceBrackets/)
+- [14-Intersection](/Exercises/14-Intersection/)
 
 
 **Tests**

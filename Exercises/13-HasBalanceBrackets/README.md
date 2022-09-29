@@ -1,7 +1,7 @@
 
 
 # Has Balance Brackets
-## Introducción
+## Introduction
 Create a bracket validator. The idea is to check that the brackets are balanced correctly.
 
 Valid brackets are as follows: **[ ] ( ) { }**
