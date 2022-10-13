@@ -23,6 +23,9 @@ I'll try to add at least one every week.
 - [12-GridChallenge](/Exercises/12-GridChallenge/)
 - [13-HasBalanceBrackets](/Exercises/13-HasBalanceBrackets/)
 - [14-Intersection](/Exercises/14-Intersection/)
+- [15-CaesarCipher](/Exercises/15-CaesarCipher/)
+- [16-FlippingMatrix](/Exercises/16-FlippingMatrix/)
+- [17-RecursiveDigitSum](/Exercises/17-RecursiveDigitSum/)
 
 
 **Tests**
