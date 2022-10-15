@@ -28,4 +28,26 @@ class NewYearChaosTest extends TestCase
 
         minimum_bribes($input);
     }
+
+    public function testNewYearChaosCase1() : void
+    {
+        $input = [5,1,2,3,7,8,6,4];
+
+        $expected = "Too chaotic\n";
+
+        $this->expectOutputString($expected);
+
+        minimum_bribes($input);
+    }
+
+    public function testNewYearChaosCase2() : void
+    {
+        $input = [1,2,5,3,7,8,6,4];
+
+        $expected = "7\n";
+
+        $this->expectOutputString($expected);
+
+        minimum_bribes($input);
+    }
 }
