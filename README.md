@@ -26,6 +26,8 @@ I'll try to add at least one every week.
 - [15-CaesarCipher](/Exercises/15-CaesarCipher/)
 - [16-FlippingMatrix](/Exercises/16-FlippingMatrix/)
 - [17-RecursiveDigitSum](/Exercises/17-RecursiveDigitSum/)
+- [18-NewYearChaos](/Exercises/18-NewYearChaos/)
+- [19-PalindromIndex](/Exercises/19-PalindromIndex/)
 
 
 **Tests**
