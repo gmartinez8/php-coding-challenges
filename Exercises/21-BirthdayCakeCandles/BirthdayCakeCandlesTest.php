@@ -3,7 +3,7 @@ require('BirthdayCakeCandles.php');
 
 use PHPUnit\Framework\TestCase;
 
-class birthdayCakeCandlesTest extends TestCase
+class BirthdayCakeCandlesTest extends TestCase
 {
     public function testStaircase()
     {
