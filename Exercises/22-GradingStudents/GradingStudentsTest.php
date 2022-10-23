@@ -44,6 +44,26 @@ class GradingStudents extends TestCase
 
         $this->assertEquals($expected, $result);
     }
+
+    public function testGradingStudentsCase4()
+    {
+        $grade = [73,67,38,33];
+        $expected = [75,67,40,33];
+
+        $result = gradingStudents($grade);
+
+        $this->assertEquals($expected, $result);
+    }
+
+    public function testGradingStudentsCase5()
+    {
+        $grade = [84,29,57];
+        $expected = [85,29,57];
+
+        $result = gradingStudents($grade);
+
+        $this->assertEquals($expected, $result);
+    }
 }
 
 ?>
