@@ -28,6 +28,8 @@ I'll try to add at least one every week.
 - [17-RecursiveDigitSum](/Exercises/17-RecursiveDigitSum/)
 - [18-NewYearChaos](/Exercises/18-NewYearChaos/)
 - [19-PalindromIndex](/Exercises/19-PalindromIndex/)
+- [20-Staircase](/Exercises/20-Staircase/)
+- [21-BirthdayCakeCandles](/Exercises/21-BirthdayCakeCandles/)
 
 
 **Tests**
